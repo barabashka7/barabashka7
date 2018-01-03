@@ -1,6 +1,6 @@
 import unittest
 from unittest import TestCase
-from last import M
+from Matrix import M
 
 class TestLast(unittest.TestCase):
     def test_str(self):
